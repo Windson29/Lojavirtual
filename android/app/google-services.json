@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811778360747",
+    "firebase_url": "https://loja-dom-diego.firebaseio.com",
+    "project_id": "loja-dom-diego",
+    "storage_bucket": "loja-dom-diego.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811778360747:android:c6b0c1821b37c53714beee",
+        "android_client_info": {
+          "package_name": "br.com.nascimento.lojadomdiegoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811778360747-p10j4hhd27uq7b1tbok8m4jh8s7ive98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiHZO5Mp6ssQ2rbz_DxteyT4blvpzC1BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811778360747-p10j4hhd27uq7b1tbok8m4jh8s7ive98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
